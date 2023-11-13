@@ -12,8 +12,11 @@ I'm have a Licentiate Physics Degree from the Federal University of Uberlândia 
 
 
 # 🌱 I’m currently learning 
-
-[Time management](https://designyoself.tumblr.com/image/155543973324) (!) 😩 </br> </br> 
+* [Streamlit dashboards](https://docs.streamlit.io/library/api-reference/widgets)
+* Computer vision techniques
+* [Kivy apps](https://github.com/mardesoushi/myfit-app)
+* Composite models for DM
+* ... and [Time management](https://designyoself.tumblr.com/image/155543973324) (!)  </br> </br> 
 
 
 
