@@ -1,24 +1,12 @@
 # 👋 Hello there
 
-I'm Marcio de Souza, a (feeling old) millenial currently doing the last year of my PhD in Theoretical Physics, where I study dark matter models for collider experiments. </br> 
-I'm also a part-time data scientist with interest in language models and time-series analisys using different AI models. </br> </br> 
-
-
+I'm Marcio de Souza, a (feeling old) millenial currently with a PhD in Theoretical Physics, where I studied dark matter models for collider experiments. </br> 
+I'm also a part-time data scientist and software engineer with interest in language models and time-series analisys using different AI models. </br> </br> 
 
 
 # 🚀 Expertise
 
 I'm have a Licentiate Physics Degree from the Federal University of Uberlândia (2017). I worked as Mathematics and Physics teacher since 2015. Got a Master's degree in Physics from the Federal University of Rio Grande do Sul in 2020 and I'm currently a PhD student with a scholarship in the same institution. I have some experience in Theoretical Particle Physics and Cosmology with a particular interest in theoretical modeling and experimental search for Dark Matter. I have been working as a data scientist since 2021, with experience in the area of time series analysis and AI data modeling. </br> </br> 
-
-
-# 🌱 I’m currently learning 
-* [Streamlit dashboards](https://docs.streamlit.io/library/api-reference/widgets)
-* Computer vision techniques
-* [Kivy apps](https://github.com/mardesoushi/myfit-app)
-* Composite models for DM
-* ... and [Time management](https://designyoself.tumblr.com/image/155543973324) (!)  </br> </br> 
-
-
 
 
 # 🌐 Socials:
